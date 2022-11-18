@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "findings.html#population-analysis-of-youths-aged-17---20-distribution-of-junior-colleges",
+    "href": "findings.html#population-analysis-of-youths-aged-17---20-distribution-of-junior-colleges",
+    "title": "Results & Discussion",
+    "section": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges",
+    "text": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges"
+  },
+  {
+    "objectID": "findings.html#population-analysis-of-youths-aged-13---17-distribution-of-secondary-schools",
+    "href": "findings.html#population-analysis-of-youths-aged-13---17-distribution-of-secondary-schools",
+    "title": "Results & Discussion",
+    "section": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools",
+    "text": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools"
+  },
+  {
+    "objectID": "findings.html#population-analysis-of-children-aged-7---12-distribution-of-primary-schools",
+    "href": "findings.html#population-analysis-of-children-aged-7---12-distribution-of-primary-schools",
+    "title": "Results & Discussion",
+    "section": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools",
+    "text": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Group 8",
+    "section": "",
+    "text": "Project Vanishing Schools is a project under the module SMT201 Geographic Information Systems for Urban Planning by Professor Kam Tin Seong in Singapore Management University (SMU).\nThis project aims to investigate the impact of school closures and mergers on accessibility to schools across Singapore. We used network accessibility analysis to evaluate the accessibility of schools at different educational levels (i.e. primary, secondary and junior colleges) using the QNEAT3 plugin and analytical hexagons. \nThrough creating multiple choropleth maps comparing the accessibility of schools before and after school closures and mergers, we will be able to visualise the accessibility to schools at different areas of Singapore, highlighting the areas which require better accessibility, as well as compare the changes in accessibility. \nWe decided to name our project ‘Vanishing Schools’ as our main focus of the project is the decline of schools across Singapore due to school closures and mergers. School closures and mergers have significantly impacted the lives of Singaporean students with one impact being the loss of fond memories of relationships formed with friends and teachers. Hence, we chose the word ‘vanishing’ as it best represents the nostalgic sentiments that come with school closures and mergers."
+  },
+  {
+    "objectID": "methodology.html",
+    "href": "methodology.html",
+    "title": "Methodology",
+    "section": "",
+    "text": "Datasets"
+  },
+  {
+    "objectID": "overview.html#motivation",
+    "href": "overview.html#motivation",
+    "title": "Overview",
+    "section": "Motivation",
+    "text": "Motivation\nIn the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6.\n“Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places,” said Ms Liew Wei Li, Ministry of Education’s director of schools and deputy-director general of education.\nHence, through this project we analysed the accessibility of schools from residential areas after the closure and mergers of schools for primary and secondary schools, as well as junior colleges across Singapore using Network Accessibility Analysis. We also conducted population analysis of students aged"
+  },
+  {
+    "objectID": "overview.html#project-objectives",
+    "href": "overview.html#project-objectives",
+    "title": "Overview",
+    "section": "Project Objectives",
+    "text": "Project Objectives\nThis objective of this project is to find the impact of school mergers and closures on access to education at different educational levels:\n\nPrimary schools\nSecondary schools\nJunior Colleges\n\nThe time period we chose to analyse where school closures and mergers happened is between January 2018 to April 2021."
+  },
+  {
+    "objectID": "overview.html#tasks",
+    "href": "overview.html#tasks",
+    "title": "Overview",
+    "section": "Tasks",
+    "text": "Tasks\nThe project tasks are as follows:\n\nAccessibility of the three educational levels before school closures and mergers in April 2021\nAccessibility of the three educational levels after school closures and mergers in April 2021\nCompare the accessibility maps by creating choropleth maps for the three educational levels before and after school closures and mergers\nPopulation density maps of populations aged:\n\nPrimary school students: 7 to 12 years old\nSecondary school students: 13 to 17 years old\nJunior college school students: 17 to 20 years old"
+  },
+  {
+    "objectID": "overview.html#data",
+    "href": "overview.html#data",
+    "title": "Overview",
+    "section": "Data",
+    "text": "Data\nFor this project, the following data sources are recommended but students are welcome to include other appropriate data.\n\nRoads data from OpenStreetMap (OSM) data sets. The data from Geofrabrik site is recommended instead of bbike as quality of the data provided by Geofabrik is better than bbike.\nEducation data. This dataset provides general information of public primary schools, secondary schools and junior colleges. It was downloaded from Data.gov.sg and geocoded by using SLA OneMap Api. (It can be downloaded from Hands-On Ex 3)\nPopulation data from Singstat Singapore. This dataset provides the ages and number of people living in each subzone within planning areas in 2021.\nMaster Plan 2014 Subzone Boundary from URA. This data can be downloaded from data.gov.sg."
+  },
+  {
+    "objectID": "overview.html#scope-of-work",
+    "href": "overview.html#scope-of-work",
+    "title": "Overview",
+    "section": "Scope of work",
+    "text": "Scope of work\nThe scope of the project will include the following steps:\n\nSelection of project area (i.e. time period to use)\nData collection, extraction, integration, transformation and wrangling\nDesigning and building GIS model and database\nPreparing report\nPerforming network accessibility analysis\nPerforming population analysis by creating choropleth maps\nPreparing poster and project website"
+  },
+  {
+    "objectID": "overview.html#project-timeline",
+    "href": "overview.html#project-timeline",
+    "title": "Overview",
+    "section": "Project timeline",
+    "text": "Project timeline\nThis is our group’s project timeline in the form of a Gantt chart."
+  }
+]
