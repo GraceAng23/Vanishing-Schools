@@ -1,0 +1,38 @@
+---
+title: "Results & Discussion"
+editor: visual
+---
+
+# Accessibility of schools
+
+## Accessibility of Junior Colleges
+
+![](Accessibility%20to%20before_merge_JC.png){fig-align="center"}
+
+![](Accessibility%20to%20after_merge_JC.png){fig-align="center"}
+
+## Accessibility of Secondary Schools
+
+![](Accessibility%20to%20before_merge_SecSch.png){fig-align="center"}
+
+![](Accessibility%20to%20after_merge_SecSch.png)
+
+## Accessibility of Primary Schools
+
+![](Accessibility%20to%20before_merge_PriSch.png){fig-align="center"}
+
+![](Accessibility%20to%20after_merge_PriSch.png)
+
+# Population Analysis
+
+## Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges
+
+![](JC%20Population%20Map.png){fig-align="center"}
+
+## Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools
+
+![](Sec%20Population%20Map.png){fig-align="center"}
+
+## Population Analysis of children aged 7 - 12 & Distribution of Primary Schools
+
+![](Pri%20Population%20map.png){fig-align="center"}

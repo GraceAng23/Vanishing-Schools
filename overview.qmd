@@ -1,0 +1,80 @@
+---
+title: "Overview"
+editor: visual
+---
+
+![](smt201%20project%20logo%20(1).png){fig-alt="Group Logo" fig-align="center" width="359"}
+
+## Motivation
+
+In the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6.
+
+"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places," said Ms Liew Wei Li, Ministry of Education's director of schools and deputy-director general of education.
+
+Hence, through this project we analysed the accessibility of schools from residential areas after the closure and mergers of schools for primary and secondary schools, as well as junior colleges across Singapore using Network Accessibility Analysis. We also conducted population analysis of students aged
+
+## Project Objectives
+
+This objective of this project is to find the impact of school mergers and closures on access to education at different educational levels:
+
+-   Primary schools
+
+-   Secondary schools
+
+-   Junior Colleges
+
+The time period we chose to analyse where school closures and mergers happened is between January 2018 to April 2021.
+
+## Tasks
+
+The project tasks are as follows:
+
+1.  Accessibility of the three educational levels before school closures and mergers in April 2021
+
+2.  Accessibility of the three educational levels after school closures and mergers in April 2021
+
+3.  Compare the accessibility maps by creating choropleth maps for the three educational levels before and after school closures and mergers
+
+4.  Population density maps of populations aged:
+
+    -   Primary school students: 7 to 12 years old
+
+    -   Secondary school students: 13 to 17 years old
+
+    -   Junior college school students: 17 to 20 years old
+
+## Data
+
+For this project, the following data sources are recommended but students are welcome to include other appropriate data.
+
+-   [Roads data from OpenStreetMap (OSM) data sets](https://download.geofabrik.de/asia/malaysia-singapore-brunei.html). The data from Geofrabrik site is recommended instead of bbike as quality of the data provided by Geofabrik is better than bbike.
+
+-   Education data. This dataset provides general information of public primary schools, secondary schools and junior colleges. It was downloaded from Data.gov.sg and geocoded by using SLA OneMap Api. (It can be downloaded from Hands-On Ex 3)
+
+-   [Population data](https://www.singstat.gov.sg/-/media/files/find_data/population/statistical_tables/respopagesex2021.ashx) from Singstat Singapore. This dataset provides the ages and number of people living in each subzone within planning areas in 2021.
+
+-   [Master Plan 2014 Subzone Boundary](https://data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea) from URA. This data can be downloaded from data.gov.sg.
+
+## Scope of work
+
+The scope of the project will include the following steps:
+
+-   Selection of project area (i.e. time period to use)
+
+-   Data collection, extraction, integration, transformation and wrangling
+
+-   Designing and building GIS model and database
+
+-   Preparing report
+
+-   Performing network accessibility analysis
+
+-   Performing population analysis by creating choropleth maps
+
+-   Preparing poster and project website
+
+## Project timeline
+
+This is our group's project timeline in the form of a Gantt chart.
+
+![](Gantt%20Chart.png){fig-alt="Gantt Chart" fig-align="center"}

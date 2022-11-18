@@ -1,0 +1,13 @@
+---
+title: "Group 8"
+---
+
+# Overview of Project
+
+Project Vanishing Schools is a project under the module SMT201 Geographic Information Systems for Urban Planning by Professor Kam Tin Seong in Singapore Management University (SMU).
+
+This project aims to investigate the impact of school closures and mergers on accessibility to schools across Singapore. We used network accessibility analysis to evaluate the accessibility of schools at different educational levels (i.e. primary, secondary and junior colleges) using the QNEAT3 plugin and analytical hexagons. 
+
+Through creating multiple choropleth maps comparing the accessibility of schools before and after school closures and mergers, we will be able to visualise the accessibility to schools at different areas of Singapore, highlighting the areas which require better accessibility, as well as compare the changes in accessibility. 
+
+We decided to name our project 'Vanishing Schools' as our main focus of the project is the decline of schools across Singapore due to school closures and mergers. School closures and mergers have significantly impacted the lives of Singaporean students with one impact being the loss of fond memories of relationships formed with friends and teachers. Hence, we chose the word 'vanishing' as it best represents the nostalgic sentiments that come with school closures and mergers. 
