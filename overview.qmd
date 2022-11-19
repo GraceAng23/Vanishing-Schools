@@ -52,7 +52,7 @@ For this project, the following data sources are recommended but students are we
 
 -   [Roads data from OpenStreetMap (OSM) data sets](https://download.geofabrik.de/asia/malaysia-singapore-brunei.html). The data from Geofrabrik site is recommended instead of bbike as quality of the data provided by Geofabrik is better than bbike.
 
--   Education data. This dataset provides general information of public primary schools, secondary schools and junior colleges. It was downloaded from Data.gov.sg and geocoded by using SLA OneMap Api.
+-   [Education data](https://data.gov.sg/dataset/school-directory-and-information). This dataset provides general information of public primary schools, secondary schools and junior colleges. It was downloaded from data.gov.sg and geocoded by using SLA OneMap Api.
 
 -   [Population data](https://www.singstat.gov.sg/-/media/files/find_data/population/statistical_tables/respopagesex2021.ashx) from Singstat Singapore. This dataset provides the ages and number of people living in each subzone within planning areas in 2021.
 
