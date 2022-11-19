@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-*This page will show the analysis we did for the project, more details can be found in the [full report](https://docs.google.com/document/d/1wKBpd8vTmzFCI0M_kcvgqEpLn5OBBwGgiDXcW80Lp-c/edit?usp=sharing).*
+*This page will show the analysis we did for the project, more details can be found in the [full report](https://drive.google.com/file/d/1Bzj_WENj-JisVH3wq2J0rzOsm8GzLO_H/view?usp=sharing).*
 
 # Accessibility of schools
 
