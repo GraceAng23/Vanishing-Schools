@@ -3,6 +3,12 @@ title: "Methodology"
 editor: visual
 ---
 
-(insert flow chart)
+![](images/methodology.drawio-01.png){fig-alt="Flow Chart of Methdology" fig-align="center" width="700"}
 
 # Datasets
+
+| File Name | Description | Source |
+|-----------|-------------|--------|
+|           |             |        |
+|           |             |        |
+|           |             |        |

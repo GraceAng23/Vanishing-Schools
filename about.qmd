@@ -1,3 +1,19 @@
 ---
 title: "About"
 ---
+
+# **Welcome to our site!**
+
+We are G2 T8. This website showcases the work and insights we gained from our project, our GitHub repository can accessed [here](https://github.com/GraceAng23/Vanishing-Schools).
+
+# The Team 
+
+![](images/21_B_Sunrise_Apartments_8339_Oceanside_Ave_Kapolei,_Hawaii_39210.png){fig-align="center"}
+
+## Members
+
+Muhammad Salehuddin Bin Asri
+
+Lee Shao Hao
+
+Grace Ang Ren Hui

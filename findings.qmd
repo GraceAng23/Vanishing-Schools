@@ -1,7 +1,8 @@
 ---
-title: "Results & Discussion"
 editor: visual
 ---
+
+*This page will show the analysis we did for the project, more details can be found in the full report (insert link).*
 
 # Accessibility of schools
 
@@ -11,11 +12,31 @@ editor: visual
 
 ![](images/Accessibility%20to%20after_merge_JC.png){fig-align="center"}
 
+Overall, the accessibility of JCs had a large disparity across Singapore, with the highest accessibility being 254 metres from the nearest JC and the lowest accessibility being 47626 metres.
+
+The overall accessibility to JCs has decreased after the school closures and mergers in 2019. The central region of Singapore has the highest accessibility to junior colleges while the outermost western, eastern and southern regions remain relatively similar. However, the merger and closure of junior colleges resulted in significantly decreased accessibility for the western, northeastern & northwestern regions. We have identified the following mergers that has affected the accessibility in these region:
+
+-   Jurong JC and Pioneer JC
+
+-   Innova JC and Yishun JC
+
+-   Tampines JC and Meridian JC
+
 ## Accessibility of Secondary Schools
 
 ![](images/Accessibility%20to%20before_merge_SecSch.png){fig-align="center"}
 
 ![](images/Accessibility%20to%20after_merge_SecSch.png)
+
+The overall accessibility of secondary schools is more evenly distributed across Singapore as compared to junior colleges. The highest accessibility is 135 metres from the nearest secondary school and the lowest accessibility being 44447 metres, which is a smaller range compared to our JC analysis, indicating that there is less disparity in accessibility to secondary schools than that of JCs.
+
+The overall accessibility to secondary schools after the school closures and mergers in 2018 and 2019 has decreased as the total area colored dark red decreased. Some regions such as the outermost western, eastern and southern regions remain relatively similar as they are still colored light red. The regions that were most impacted by the school closures and mergers are the western and central regions of Singapore.
+
+The mergers that significantly affected the accessibility include:
+
+-   Hong Kah Secondary and Jurongville Secondary
+
+-   Bishan Park Secondary and Peirce Secondary
 
 ## Accessibility of Primary Schools
 
@@ -23,16 +44,28 @@ editor: visual
 
 ![](images/Accessibility%20to%20after_merge_PriSch.png){fig-align="center"}
 
+Overall, the accessibility of primary schools is the largest amongst all educational levels with the highest accessibility being 55 metres from the nearest primary school and the lowest being 43661 metres.
+
+The northeastern regions of Singapore have the highest accessibility to primary schools as many primary schools are concentrated in these areas. Hence, residents living in Punggol and Seng Kang have the shortest distance to access primary school education in Singapore. In contrast, the outermost western, eastern and southern regions of Singapore face less accessibility to primary schools as these are not residential areas.
+
+After the school closures and mergers in 2019, the overall accessibility to secondary schools remained the same with little to no difference in shading.
+
 # Population Analysis
 
 ## Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges
 
 ![](images/JC%20Population%20Map.png){fig-align="center"}
 
+Upon analysing the population density map of children aged 7-12 in 2021, we found that more children are live in the northern and eastern side of Singapore. These areas include Tampines East, Woodlands East, Fernvale. These top 3 subzone areas have at least 3 primary schools within their boundaries which would provide enough opportunities for parents to enrol their children into primary education.
+
 ## Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools
 
 ![](images/Sec%20Population%20Map.png){fig-align="center"}
 
+The areas most populated with youths aged 13 to 17 in Singapore were Woodlands East, Tampines East, Jurong West Central. Similar to that of children aged 7-12, the distribution of students eligible for secondary schools (aged 13-17) have a similar distribution, with the population concentrated in the northern, northeastern and eastern regions of Singapore. Overall, there is an adequate number of secondary schools for subzones which are more densely populated with youths aged 13 to 17. There is at least one secondary school in the subzones with the population ranges of 4000 - 6030 and 2220 - 4000. However, the number of secondary schools can be increased in certain subzone areas, especially the northeastern region of Singapore. The subzones are Fernvale, Matilda and Anchorvale. Additionally, Yunnan is a subzone with no secondary schools despite being in the second most populated range of 2220 - 4000.
+
 ## Population Analysis of children aged 7 - 12 & Distribution of Primary Schools
 
 ![](images/Pri%20Population%20map.png){fig-align="center"}
+
+Similar to our previous two analyses, the distribution of youth eligible for JC (aged 17 - 20) is concentrated in the northern, northeast and eastern regions of Singapore (this is assuming that all youths aged 13 to 17 are eligible for JC enrolment and not taking account of their academic competency. However, most JC schools are not located close to these subzones. In fact, ACJC is located in one of the least-densely populated areas.

@@ -1,24 +1,66 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are G2 T8. This website showcases the work and insights we gained from our project, our GitHub repository can accessed here."
+  },
+  {
+    "objectID": "about.html#members",
+    "href": "about.html#members",
+    "title": "About",
+    "section": "Members",
+    "text": "Members\nMuhammad Salehuddin Bin Asri\nLee Shao Hao\nGrace Ang Ren Hui"
+  },
+  {
+    "objectID": "findings.html",
+    "href": "findings.html",
+    "title": "Vanishing Schools",
+    "section": "",
+    "text": "This page will show the analysis we did for the project, more details can be found in the full report (insert link)."
+  },
+  {
+    "objectID": "findings.html#accessibility-of-junior-colleges",
+    "href": "findings.html#accessibility-of-junior-colleges",
+    "title": "Vanishing Schools",
+    "section": "Accessibility of Junior Colleges",
+    "text": "Accessibility of Junior Colleges\n\n\n\n\n\n\n\n\n\n\nOverall, the accessibility of JCs had a large disparity across Singapore, with the highest accessibility being 254 metres from the nearest JC and the lowest accessibility being 47626 metres.\nThe overall accessibility to JCs has decreased after the school closures and mergers in 2019. The central region of Singapore has the highest accessibility to junior colleges while the outermost western, eastern and southern regions remain relatively similar. However, the merger and closure of junior colleges resulted in significantly decreased accessibility for the western, northeastern & northwestern regions. We have identified the following mergers that has affected the accessibility in these region:\n\nJurong JC and Pioneer JC\nInnova JC and Yishun JC\nTampines JC and Meridian JC"
+  },
+  {
+    "objectID": "findings.html#accessibility-of-secondary-schools",
+    "href": "findings.html#accessibility-of-secondary-schools",
+    "title": "Vanishing Schools",
+    "section": "Accessibility of Secondary Schools",
+    "text": "Accessibility of Secondary Schools\n\n\n\n\n\n\nThe overall accessibility of secondary schools is more evenly distributed across Singapore as compared to junior colleges. The highest accessibility is 135 metres from the nearest secondary school and the lowest accessibility being 44447 metres, which is a smaller range compared to our JC analysis, indicating that there is less disparity in accessibility to secondary schools than that of JCs.\nThe overall accessibility to secondary schools after the school closures and mergers in 2018 and 2019 has decreased as the total area colored dark red decreased. Some regions such as the outermost western, eastern and southern regions remain relatively similar as they are still colored light red. The regions that were most impacted by the school closures and mergers are the western and central regions of Singapore.\nThe mergers that significantly affected the accessibility include:\n\nHong Kah Secondary and Jurongville Secondary\nBishan Park Secondary and Peirce Secondary"
+  },
+  {
+    "objectID": "findings.html#accessibility-of-primary-schools",
+    "href": "findings.html#accessibility-of-primary-schools",
+    "title": "Vanishing Schools",
+    "section": "Accessibility of Primary Schools",
+    "text": "Accessibility of Primary Schools\n\n\n\n\n\n\n\n\n\n\nOverall, the accessibility of primary schools is the largest amongst all educational levels with the highest accessibility being 55 metres from the nearest primary school and the lowest being 43661 metres.\nThe northeastern regions of Singapore have the highest accessibility to primary schools as many primary schools are concentrated in these areas. Hence, residents living in Punggol and Seng Kang have the shortest distance to access primary school education in Singapore. In contrast, the outermost western, eastern and southern regions of Singapore face less accessibility to primary schools as these are not residential areas.\nAfter the school closures and mergers in 2019, the overall accessibility to secondary schools remained the same with little to no difference in shading."
+  },
+  {
     "objectID": "findings.html#population-analysis-of-youths-aged-17---20-distribution-of-junior-colleges",
     "href": "findings.html#population-analysis-of-youths-aged-17---20-distribution-of-junior-colleges",
-    "title": "Results & Discussion",
+    "title": "Vanishing Schools",
     "section": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges",
-    "text": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges"
+    "text": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges\n\n\n\n\n\nUpon analysing the population density map of children aged 7-12 in 2021, we found that more children are live in the northern and eastern side of Singapore. These areas include Tampines East, Woodlands East, Fernvale. These top 3 subzone areas have at least 3 primary schools within their boundaries which would provide enough opportunities for parents to enrol their children into primary education."
   },
   {
     "objectID": "findings.html#population-analysis-of-youths-aged-13---17-distribution-of-secondary-schools",
     "href": "findings.html#population-analysis-of-youths-aged-13---17-distribution-of-secondary-schools",
-    "title": "Results & Discussion",
+    "title": "Vanishing Schools",
     "section": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools",
-    "text": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools"
+    "text": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools\n\n\n\n\n\nThe areas most populated with youths aged 13 to 17 in Singapore were Woodlands East, Tampines East, Jurong West Central. Similar to that of children aged 7-12, the distribution of students eligible for secondary schools (aged 13-17) have a similar distribution, with the population concentrated in the northern, northeastern and eastern regions of Singapore. Overall, there is an adequate number of secondary schools for subzones which are more densely populated with youths aged 13 to 17. There is at least one secondary school in the subzones with the population ranges of 4000 - 6030 and 2220 - 4000. However, the number of secondary schools can be increased in certain subzone areas, especially the northeastern region of Singapore. The subzones are Fernvale, Matilda and Anchorvale. Additionally, Yunnan is a subzone with no secondary schools despite being in the second most populated range of 2220 - 4000."
   },
   {
     "objectID": "findings.html#population-analysis-of-children-aged-7---12-distribution-of-primary-schools",
     "href": "findings.html#population-analysis-of-children-aged-7---12-distribution-of-primary-schools",
-    "title": "Results & Discussion",
+    "title": "Vanishing Schools",
     "section": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools",
-    "text": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools"
+    "text": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools\n\n\n\n\n\nSimilar to our previous two analyses, the distribution of youth eligible for JC (aged 17 - 20) is concentrated in the northern, northeast and eastern regions of Singapore (this is assuming that all youths aged 13 to 17 are eligible for JC enrolment and not taking account of their academic competency. However, most JC schools are not located close to these subzones. In fact, ACJC is located in one of the least-densely populated areas."
   },
   {
     "objectID": "index.html",
@@ -32,21 +74,21 @@
     "href": "methodology.html",
     "title": "Methodology",
     "section": "",
-    "text": "Datasets"
+    "text": "Datasets\n\n\n\nFile Name\nDescription\nSource"
   },
   {
     "objectID": "overview.html#motivation",
     "href": "overview.html#motivation",
     "title": "Vanishing Schools",
     "section": "Motivation",
-    "text": "Motivation\nIn the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6.\n“Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places,” said Ms Liew Wei Li, Ministry of Education’s director of schools and deputy-director general of education.\nHence, through this project we analysed the accessibility of schools from residential areas after the closure and mergers of schools for primary and secondary schools, as well as junior colleges across Singapore using Network Accessibility Analysis. We also conducted population analysis of students aged"
+    "text": "Motivation\nIn the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6 (cite).\n\"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places\", said Ms Liew Wei Li, Ministry of Education's director of schools and deputy-director general of education (Liew, 2021).\nWith Ms Liew's statement in mind, we wanted to investigate how accessibility has changed after the past few mergers and closures. Through our project, we also wanted to take this opportunity to analyse the accessibility of schools from residential areas using QGIS software and Network Accessibility Analysis."
   },
   {
     "objectID": "overview.html#project-objectives",
     "href": "overview.html#project-objectives",
     "title": "Vanishing Schools",
     "section": "Project Objectives",
-    "text": "Project Objectives\nThis objective of this project is to find the impact of school mergers and closures on access to education at different educational levels:\n\nPrimary schools\nSecondary schools\nJunior Colleges\n\nThe time period we chose to analyse where school closures and mergers happened is between January 2018 to April 2021."
+    "text": "Project Objectives\nThe objective of this project is to analyse the impact of school mergers and closures on the accessibility to education in different institutional levels. Our analysis will cover the following institutional levels:\n\nPrimary Schools\nSecondary Schools\nJunior College\n\nThe time period we chose to analyse where school closures and mergers happened is between January 2018 to April 2021 and we intend to compare the changes in accessibility of the different educational levels using choropleth maps before and after school mergers and closures."
   },
   {
     "objectID": "overview.html#tasks",
@@ -60,7 +102,7 @@
     "href": "overview.html#data",
     "title": "Vanishing Schools",
     "section": "Data",
-    "text": "Data\nFor this project, the following data sources are recommended but students are welcome to include other appropriate data.\n\nRoads data from OpenStreetMap (OSM) data sets. The data from Geofrabrik site is recommended instead of bbike as quality of the data provided by Geofabrik is better than bbike.\nEducation data. This dataset provides general information of public primary schools, secondary schools and junior colleges. It was downloaded from Data.gov.sg and geocoded by using SLA OneMap Api. (It can be downloaded from Hands-On Ex 3)\nPopulation data from Singstat Singapore. This dataset provides the ages and number of people living in each subzone within planning areas in 2021.\nMaster Plan 2014 Subzone Boundary from URA. This data can be downloaded from data.gov.sg."
+    "text": "Data\nFor this project, the following data sources are recommended but students are welcome to include other appropriate data.\n\nRoads data from OpenStreetMap (OSM) data sets. The data from Geofrabrik site is recommended instead of bbike as quality of the data provided by Geofabrik is better than bbike.\nEducation data. This dataset provides general information of public primary schools, secondary schools and junior colleges. It was downloaded from Data.gov.sg and geocoded by using SLA OneMap Api.\nPopulation data from Singstat Singapore. This dataset provides the ages and number of people living in each subzone within planning areas in 2021.\nMaster Plan 2014 Subzone Boundary from URA. This data can be downloaded from data.gov.sg."
   },
   {
     "objectID": "overview.html#scope-of-work",
