@@ -18,7 +18,7 @@ On the other hand, areas with lighter shades of green indicate lower accessibili
 
 ![](images/Accessibility%20to%20after_merge_JC.png){fig-align="center"}
 
-The overall accessibility to JCs has decreased after the school closures and mergers in 2019, where the total area of dark green hexagons has decreased compared to that of the accessibility map before mergers. Similar to the map before mergers, the central region of Singapore has the highest accessibility to junior colleges while the outermost western, eastern and southern regions remain relatively similar. However, the merger and closure of junior colleges resulted in significantly decreased accessibility for the western, northeastern & northwestern regions. These affected areas can be observed in Figure 2 where they have reduced shading of the hexagons compared to their counterparts in Figure 1, from being in the darkest colour range of 254 - 2932 to the middle colour range of 7984 to 10380. We have identified the following mergers that has affected the accessibility in these region:
+The overall accessibility to JCs has decreased after the school closures and mergers in 2019, where the total area of dark green hexagons has decreased compared to that of the accessibility map before mergers. Similar to the map before mergers, the central region of Singapore has the highest accessibility to junior colleges while the outermost western, eastern and southern regions remain relatively similar. However, the merger and closure of junior colleges resulted in significantly decreased accessibility for the western, northeastern & northwestern regions. These affected areas can be observed in the map above where they have reduced shading of the hexagons compared to their counterparts in the map for before mergers, from being in the darkest colour range of 254 - 2932 to the middle colour range of 7984 to 10380. We have identified the following mergers that has affected the accessibility in these region:
 
 -   **Jurong JC and Pioneer JC** 
 
@@ -65,8 +65,8 @@ The northeastern regions of Singapore have the highest accessibility to primary 
 
 ![](images/Accessibility%20to%20after_merge_PriSch.png){fig-align="center"}
 
-After the school closures and mergers in 2019, the overall accessibility to secondary schools remained the same with little to no difference in shading, as seen in Figure 11. \
-The outermost western, eastern and southern regions are still colored light blue, indicating no improvement in accessibility to primary schools. Areas with school closures and mergers (as shown in Figure 10, where the pink symbols are) are not visibly affected as there are still existing primary schools in the near vicinity. 
+After the school closures and mergers in 2019, the overall accessibility to secondary schools remained the same with little to no difference in shading. \
+The outermost western, eastern and southern regions are still colored light blue, indicating no improvement in accessibility to primary schools. Areas with school closures and mergers (as shown in the map for before primary school mergers, where the pink symbols are) are not visibly affected as there are still existing primary schools in the near vicinity. 
 
 ## Overall Analysis
 
