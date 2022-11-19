@@ -1,29 +1,28 @@
 ---
-title: "Overview"
 editor: visual
 ---
 
-![](smt201%20project%20logo%20(1).png){fig-alt="Group Logo" fig-align="center" width="359"}
+![](images/smt201%20project%20logo%20(1).png){fig-alt="Group Logo" fig-align="center"}
 
 ## Motivation
 
-In the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6.
+In the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6 (cite).
 
-"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places," said Ms Liew Wei Li, Ministry of Education's director of schools and deputy-director general of education.
+\"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places\", said Ms Liew Wei Li, Ministry of Education\'s director of schools and deputy-director general of education (Liew, 2021).
 
-Hence, through this project we analysed the accessibility of schools from residential areas after the closure and mergers of schools for primary and secondary schools, as well as junior colleges across Singapore using Network Accessibility Analysis. We also conducted population analysis of students aged
+With Ms Liew\'s statement in mind, we wanted to investigate how accessibility has changed after the past few mergers and closures. Through our project, we also wanted to take this opportunity to analyse the accessibility of schools from residential areas using QGIS software and Network Accessibility Analysis.
 
 ## Project Objectives
 
-This objective of this project is to find the impact of school mergers and closures on access to education at different educational levels:
+The objective of this project is to analyse the impact of school mergers and closures on the accessibility to education in different institutional levels. Our analysis will cover the following institutional levels:
 
--   Primary schools
+-   Primary Schools
 
--   Secondary schools
+-   Secondary Schools
 
--   Junior Colleges
+-   Junior College
 
-The time period we chose to analyse where school closures and mergers happened is between January 2018 to April 2021.
+The time period we chose to analyse where school closures and mergers happened is between January 2018 to April 2021 and we intend to compare the changes in accessibility of the different educational levels using choropleth maps before and after school mergers and closures.
 
 ## Tasks
 
