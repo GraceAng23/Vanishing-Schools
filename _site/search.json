@@ -11,14 +11,14 @@
     "href": "about.html#members",
     "title": "About",
     "section": "Members",
-    "text": "Members\nMuhammad Salehuddin Bin Asri is a Year 3 School of Computing and Information Systems student.\nLinkedIn: https://www.linkedin.com/in/muhammad-salehuddin-bin-asri-18387014b/\nLee Shao Hao is a Year 3 School of Computing and Information Systems student.\nLinkedIn: http://www.linkedin.com/in/lee-shao-hao-048304113\nGrace Ang Ren Hui is a Year 3 School of Computing and Information Systems student.\nLinkedIn: https://www.linkedin.com/in/graceangrh/"
+    "text": "Members\nMuhammad Salehuddin Bin Asri is a Year 3 School of Computing and Information Systems student, with a second major in Business Analytics.\nLinkedIn: https://www.linkedin.com/in/muhammad-salehuddin-bin-asri-18387014b/\nLee Shao Hao is a Year 3 School of Computing and Information Systems student, with a second major in Business Analytics.\nLinkedIn: http://www.linkedin.com/in/lee-shao-hao-048304113\nGrace Ang Ren Hui is a Year 3 School of Computing and Information Systems student, with a second major in Data Science.\nLinkedIn: https://www.linkedin.com/in/graceangrh/"
   },
   {
     "objectID": "findings.html",
     "href": "findings.html",
     "title": "Vanishing Schools",
     "section": "",
-    "text": "This page will show the analysis we did for the project, more details can be found in the full report (insert link)."
+    "text": "This page will show the analysis we did for the project, more details can be found in the full report."
   },
   {
     "objectID": "findings.html#accessibility-of-junior-colleges",
@@ -42,30 +42,65 @@
     "text": "Accessibility of Primary Schools\n\n\n\n\n\n\n\n\n\n\nOverall, the accessibility of primary schools is the largest amongst all educational levels with the highest accessibility being 55 metres from the nearest primary school and the lowest being 43661 metres.\nThe northeastern regions of Singapore have the highest accessibility to primary schools as many primary schools are concentrated in these areas. Hence, residents living in Punggol and Seng Kang have the shortest distance to access primary school education in Singapore. In contrast, the outermost western, eastern and southern regions of Singapore face less accessibility to primary schools as these are not residential areas.\nAfter the school closures and mergers in 2019, the overall accessibility to secondary schools remained the same with little to no difference in shading."
   },
   {
-    "objectID": "findings.html#population-analysis-of-youths-aged-17---20-distribution-of-junior-colleges",
-    "href": "findings.html#population-analysis-of-youths-aged-17---20-distribution-of-junior-colleges",
+    "objectID": "findings.html#overall-analysis",
+    "href": "findings.html#overall-analysis",
     "title": "Vanishing Schools",
-    "section": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges",
-    "text": "Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges\n\n\n\n\n\nUpon analysing the population density map of children aged 7-12 in 2021, we found that more children are live in the northern and eastern side of Singapore. These areas include Tampines East, Woodlands East, Fernvale. These top 3 subzone areas have at least 3 primary schools within their boundaries which would provide enough opportunities for parents to enrol their children into primary education."
+    "section": "Overall Analysis",
+    "text": "Overall Analysis\nPrimary schools have the highest equity of access with the smallest disparity in accessibility. This could be due to the safety consideration that parents of primary school students do not want them to travel too far from home. Another possible reason could be the standardised education received to every primary student unlike the streaming exercises (e.g. PSLE, O/NA/NT/A Levels) and difference in subject combinations in secondary schools and JCs, where students specialises in different subjects and levels (e.g. ‘O’ Levels versus ‘NA’ Levels in secondary schools, H3 subjects versus H2 subjects in JCs). Finally, the large availability of primary schools islandwide would have accounted for the least disparity in accessibility as compared to secondary schools and JCs.\nConservely, JCs have the least equity of access and, subsequently, the most disparity in accessibility due to their lowest number of schools available, with only 10 schools left by 2021. Additionally, with the age range of students being more older and mature, parents of JC students would be more willing to allow their children to travel more to pursue higher education\nIn conclusion, accessibility to JCs were affected the most by the school mergers and closures, followed by secondary school. Mergers and closures on the primary school level had negligible impact on the equity of access."
   },
   {
-    "objectID": "findings.html#population-analysis-of-youths-aged-13---17-distribution-of-secondary-schools",
-    "href": "findings.html#population-analysis-of-youths-aged-13---17-distribution-of-secondary-schools",
+    "objectID": "findings.html#population-analysis-of-youths-aged-17---20-location-distribution-of-junior-colleges",
+    "href": "findings.html#population-analysis-of-youths-aged-17---20-location-distribution-of-junior-colleges",
     "title": "Vanishing Schools",
-    "section": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools",
-    "text": "Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools\n\n\n\n\n\nThe areas most populated with youths aged 13 to 17 in Singapore were Woodlands East, Tampines East, Jurong West Central. Similar to that of children aged 7-12, the distribution of students eligible for secondary schools (aged 13-17) have a similar distribution, with the population concentrated in the northern, northeastern and eastern regions of Singapore. Overall, there is an adequate number of secondary schools for subzones which are more densely populated with youths aged 13 to 17. There is at least one secondary school in the subzones with the population ranges of 4000 - 6030 and 2220 - 4000. However, the number of secondary schools can be increased in certain subzone areas, especially the northeastern region of Singapore. The subzones are Fernvale, Matilda and Anchorvale. Additionally, Yunnan is a subzone with no secondary schools despite being in the second most populated range of 2220 - 4000."
+    "section": "Population Analysis of youths aged 17 - 20 & Location Distribution of Junior Colleges",
+    "text": "Population Analysis of youths aged 17 - 20 & Location Distribution of Junior Colleges\n\n\n\n\n\nUpon analysing the population density map of children aged 7-12 in 2021, we found that more children are live in the northern and eastern side of Singapore. These areas include Tampines East, Woodlands East, Fernvale. These top 3 subzone areas have at least 3 primary schools within their boundaries which would provide enough opportunities for parents to enrol their children into primary education."
   },
   {
-    "objectID": "findings.html#population-analysis-of-children-aged-7---12-distribution-of-primary-schools",
-    "href": "findings.html#population-analysis-of-children-aged-7---12-distribution-of-primary-schools",
+    "objectID": "findings.html#population-analysis-of-youths-aged-13---17-location-distribution-of-secondary-schools",
+    "href": "findings.html#population-analysis-of-youths-aged-13---17-location-distribution-of-secondary-schools",
     "title": "Vanishing Schools",
-    "section": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools",
-    "text": "Population Analysis of children aged 7 - 12 & Distribution of Primary Schools\n\n\n\n\n\nSimilar to our previous two analyses, the distribution of youth eligible for JC (aged 17 - 20) is concentrated in the northern, northeast and eastern regions of Singapore (this is assuming that all youths aged 13 to 17 are eligible for JC enrolment and not taking account of their academic competency. However, most JC schools are not located close to these subzones. In fact, ACJC is located in one of the least-densely populated areas."
+    "section": "Population Analysis of youths aged 13 - 17 & Location Distribution of Secondary Schools",
+    "text": "Population Analysis of youths aged 13 - 17 & Location Distribution of Secondary Schools\n\n\n\n\n\nThe areas most populated with youths aged 13 to 17 in Singapore were Woodlands East, Tampines East, Jurong West Central. Similar to that of children aged 7-12, the distribution of students eligible for secondary schools (aged 13-17) have a similar distribution, with the population concentrated in the northern, northeastern and eastern regions of Singapore. Overall, there is an adequate number of secondary schools for subzones which are more densely populated with youths aged 13 to 17. There is at least one secondary school in the subzones with the population ranges of 4000 - 6030 and 2220 - 4000. However, the number of secondary schools can be increased in certain subzone areas, especially the northeastern region of Singapore. The subzones are Fernvale, Matilda and Anchorvale. Additionally, Yunnan is a subzone with no secondary schools despite being in the second most populated range of 2220 - 4000."
+  },
+  {
+    "objectID": "findings.html#population-analysis-of-children-aged-7---12-location-distribution-of-primary-schools",
+    "href": "findings.html#population-analysis-of-children-aged-7---12-location-distribution-of-primary-schools",
+    "title": "Vanishing Schools",
+    "section": "Population Analysis of children aged 7 - 12 & Location Distribution of Primary Schools",
+    "text": "Population Analysis of children aged 7 - 12 & Location Distribution of Primary Schools\n\n\n\n\n\nSimilar to our previous two analyses, the distribution of youth eligible for JC (aged 17 - 20) is concentrated in the northern, northeast and eastern regions of Singapore (this is assuming that all youths aged 13 to 17 are eligible for JC enrolment and not taking account of their academic competency. However, most JC schools are not located close to these subzones. In fact, ACJC is located in one of the least-densely populated areas."
+  },
+  {
+    "objectID": "findings.html#overall-analysis-1",
+    "href": "findings.html#overall-analysis-1",
+    "title": "Vanishing Schools",
+    "section": "Overall Analysis",
+    "text": "Overall Analysis\nAll three maps share a similar trend where children and young adults are living in areas where housing and community developments are currently being focused on. Both the eastern and western regions of Singapore have ongoing 5-year plans to redevelop the areas for better housing, communal and recreational experiences (Urban Redevelopment Authority, A & B, n.d.). \nHowever, as education is an important asset to any development of a country, educational institutions must be easily accessed to encourage parents to enrol their children into these institutions. While the distribution of primary and secondary schools seems fair with respect to the population distribution, there is a greater need for the locations of JCs to adapt to the population shift today. Schools that have been in the same location for a very long time should consider moving to more convenient areas where they are easily accessible to the majority of potential students, especially if their location is becoming inconvenient to more students. With the upcoming mergers and closures of primary and secondary schools in April 2022 (MOE, 2022), the MOE should further consider the importance of geographical location of their current and future schools across all institutions."
+  },
+  {
+    "objectID": "findings.html#broad-nature-of-the-projects-scope",
+    "href": "findings.html#broad-nature-of-the-projects-scope",
+    "title": "Vanishing Schools",
+    "section": "Broad Nature of the Project’s Scope",
+    "text": "Broad Nature of the Project’s Scope\nOur project focuses on the accessibility of three different institutional levels and, therefore, requires us to work on a significantly large amount of data. This reduced our ability to do further in depth analysis given our limited time to work on this project. However, we strongly believe that our project leaves more to be desired as we envisioned other forms of analysis that could be done such as shortest path analysis to show the changes in distance between schools (before and after school mergers and closures) and MRT stations. From this form of analysis, we will be able to see if the accessibility to schools via public transport has been reduced due to mergers. We will also be able to evaluate which schools and subzones have the greatest accessibility to public transport."
+  },
+  {
+    "objectID": "findings.html#disconnected-roads-around-central-water-catchment-area",
+    "href": "findings.html#disconnected-roads-around-central-water-catchment-area",
+    "title": "Vanishing Schools",
+    "section": "Disconnected Roads around Central Water Catchment area",
+    "text": "Disconnected Roads around Central Water Catchment area\nDuring our data processing, we selected and extracted some roads while excluding others to factor in contextual logic in our analysis. For example, a primary student normally prefers to walk rather than travelling great distances to their school via bus or car. However, this method of extracting roads has caused some roads to be disconnected from the main road network. Consequently, this led to our various choropleth accessibility maps to shade certain hexagon areas that should have otherwise been white unshaded areas. For instance, the hexagons overlapping the Central Water Catchment area in the middle of Singapore are observed to have some shade of colour when, in actuality, should be white as the area is not considered a residential area. While our team was not able to rectify this issue of taking account of the Central Water Catchment area due to the interest of time, we do acknowledge it as a contradicting factor to the contextual knowledge we had understood."
+  },
+  {
+    "objectID": "findings.html#consideration-our-age-range-for-youths-studying-in-jcs",
+    "href": "findings.html#consideration-our-age-range-for-youths-studying-in-jcs",
+    "title": "Vanishing Schools",
+    "section": "Consideration our age range for youths studying in JCs",
+    "text": "Consideration our age range for youths studying in JCs\nFinally, the age range used to analyse the population, specifically to find a connection between the location of JCs and youths aged 17-20, is vastly overestimated as not all young\nadults in that age range pursue the JC education route. Some may pursue other education routes such as polytechnic, Institutes of Technical Education (ITE) or even not studying at all during this time of their life (e.g. working or taking a break). Hence, this is one of our assumptions that we had to consider in order to proceed with our analysis. We can improve on this analysis by finding other datasets that better represent the population who go to JCs in the subzones, such as the number of enrollments into primary schools, secondary schools and JCs in each subzone."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "G2 T8",
+    "title": "G2 Team 8",
     "section": "",
     "text": "Project Vanishing Schools is a project under the module SMT201 Geographic Information Systems for Urban Planning by Professor Kam Tin Seong in Singapore Management University (SMU).\nThis project aims to investigate the impact of school closures and mergers on accessibility to schools across Singapore. We used network accessibility analysis to evaluate the accessibility of schools at different educational levels (i.e. primary, secondary and junior colleges) using the QNEAT3 plugin and analytical hexagons. \nThrough creating multiple choropleth maps comparing the accessibility of schools before and after school closures and mergers, we will be able to visualise the accessibility to schools at different areas of Singapore, highlighting the areas which require better accessibility, as well as compare the changes in accessibility. \nWe decided to name our project ‘Vanishing Schools’ as our main focus of the project is the decline of schools across Singapore due to school closures and mergers. School closures and mergers have significantly impacted the lives of Singaporean students with one impact being the loss of fond memories of relationships formed with friends and teachers. Hence, we chose the word ‘vanishing’ as it best represents the nostalgic sentiments that come with school closures and mergers."
   },
@@ -81,7 +116,7 @@
     "href": "overview.html#motivation",
     "title": "Vanishing Schools",
     "section": "Motivation",
-    "text": "Motivation\nIn the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6 (cite).\n\"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places\", said Ms Liew Wei Li, Ministry of Education's director of schools and deputy-director general of education (Liew, 2021).\nWith Ms Liew's statement in mind, we wanted to investigate how accessibility has changed after the past few mergers and closures. Through our project, we also wanted to take this opportunity to analyse the accessibility of schools from residential areas using QGIS software and Network Accessibility Analysis."
+    "text": "Motivation\nIn the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the MOE said in a press release on April 6 (Abdullah, 2022).\nThe announcement of these mergers brought about mixed reactions amongst students and educators of the schools. For instance, amongst the mergers, one pair of schools that will be merging is Pioneer Primary and Juying Primary in 2022 (Ang, 2021). The principal of Pioneer Primary Lee Wai Ling once said she felt \"sad\" at first after receiving news that the school would be merged. Additionally, many parents as well as their children who were affected by the closure of their school were also concerned about the increased inconvenience as it would mean that their children would have to travel even further to access the merged school.\nOn the other hand, others had positive reactions towards the mergers where principal of Stamford Primary Cassie Fan believed that the students will have greater access to a wider range of educational programmes and CCAs, thus enriching their experience in schools. \n\"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places\", said Ms Liew Wei Li, Ministry of Education's director of schools and deputy-director general of education (Liew, 2021). \nWith Ms Liew's statement in mind, we wanted to investigate how accessibility has changed after the past few mergers and closures. Through our project, we also wanted to take this opportunity to analyse the accessibility of schools from residential areas using QGIS software and Network Accessibility Analysis."
   },
   {
     "objectID": "overview.html#project-objectives",
