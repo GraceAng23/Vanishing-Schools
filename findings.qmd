@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-*This page will show the analysis we did for the project, more details can be found in the full report (insert link).*
+*This page will show the analysis we did for the project, more details can be found in the [full report.](https://docs.google.com/document/d/1wKBpd8vTmzFCI0M_kcvgqEpLn5OBBwGgiDXcW80Lp-c/edit?usp=sharing)*
 
 # Accessibility of schools
 
@@ -50,22 +50,52 @@ The northeastern regions of Singapore have the highest accessibility to primary 
 
 After the school closures and mergers in 2019, the overall accessibility to secondary schools remained the same with little to no difference in shading.
 
+## Overall Analysis
+
+**Primary schools have the highest equity of access with the smallest disparity in accessibility.** This could be due to the safety consideration that parents of primary school students do not want them to travel too far from home. Another possible reason could be the standardised education received to every primary student unlike the streaming exercises (e.g. PSLE, O/NA/NT/A Levels) and difference in subject combinations in secondary schools and JCs, where students specialises in different subjects and levels (e.g. 'O' Levels versus 'NA' Levels in secondary schools, H3 subjects versus H2 subjects in JCs). Finally, the large availability of primary schools islandwide would have accounted for the least disparity in accessibility as compared to secondary schools and JCs.
+
+Conservely, **JCs have the least equity of access and, subsequently, the most disparity in accessibility** due to their lowest number of schools available, with only 10 schools left by 2021. Additionally, with the age range of students being more older and mature, parents of JC students would be more willing to allow their children to travel more to pursue higher education
+
+In conclusion, accessibility to JCs were affected the most by the school mergers and closures, followed by secondary school. Mergers and closures on the primary school level had negligible impact on the equity of access.
+
 # Population Analysis
 
-## Population Analysis of youths aged 17 - 20 & Distribution of Junior Colleges
+## Population Analysis of youths aged 17 - 20 & Location Distribution of Junior Colleges
 
 ![](images/JC%20Population%20Map.png){fig-align="center"}
 
 Upon analysing the population density map of children aged 7-12 in 2021, we found that more children are live in the northern and eastern side of Singapore. These areas include Tampines East, Woodlands East, Fernvale. These top 3 subzone areas have at least 3 primary schools within their boundaries which would provide enough opportunities for parents to enrol their children into primary education.
 
-## Population Analysis of youths aged 13 - 17 & Distribution of Secondary Schools
+## Population Analysis of youths aged 13 - 17 & Location Distribution of Secondary Schools
 
 ![](images/Sec%20Population%20Map.png){fig-align="center"}
 
 The areas most populated with youths aged 13 to 17 in Singapore were Woodlands East, Tampines East, Jurong West Central. Similar to that of children aged 7-12, the distribution of students eligible for secondary schools (aged 13-17) have a similar distribution, with the population concentrated in the northern, northeastern and eastern regions of Singapore. Overall, there is an adequate number of secondary schools for subzones which are more densely populated with youths aged 13 to 17. There is at least one secondary school in the subzones with the population ranges of 4000 - 6030 and 2220 - 4000. However, the number of secondary schools can be increased in certain subzone areas, especially the northeastern region of Singapore. The subzones are Fernvale, Matilda and Anchorvale. Additionally, Yunnan is a subzone with no secondary schools despite being in the second most populated range of 2220 - 4000.
 
-## Population Analysis of children aged 7 - 12 & Distribution of Primary Schools
+## Population Analysis of children aged 7 - 12 & Location Distribution of Primary Schools
 
 ![](images/Pri%20Population%20map.png){fig-align="center"}
 
 Similar to our previous two analyses, the distribution of youth eligible for JC (aged 17 - 20) is concentrated in the northern, northeast and eastern regions of Singapore (this is assuming that all youths aged 13 to 17 are eligible for JC enrolment and not taking account of their academic competency. However, most JC schools are not located close to these subzones. In fact, ACJC is located in one of the least-densely populated areas.
+
+## Overall Analysis
+
+All three maps share a similar trend where **children and young adults are living in areas where housing and community developments are currently being focused on**. Both the eastern and western regions of Singapore have ongoing 5-year plans to redevelop the areas for better housing, communal and recreational experiences (Urban Redevelopment Authority, A & B, n.d.). 
+
+However, as education is an important asset to any development of a country, **educational institutions must be easily accessed to encourage parents to enrol their children into these institutions**. While the distribution of primary and secondary schools seems fair with respect to the population distribution, there is a greater need for the locations of JCs to adapt to the population shift today. Schools that have been in the same location for a very long time should consider moving to more convenient areas where they are easily accessible to the majority of potential students, especially if their location is becoming inconvenient to more students. With the upcoming mergers and closures of primary and secondary schools in April 2022 (MOE, 2022), the MOE should further consider the importance of geographical location of their current and future schools across all institutions. 
+
+# Limitations
+
+## Broad Nature of the Project's Scope
+
+Our project focuses on the accessibility of three different institutional levels and, therefore, requires us to work on a significantly large amount of data. This reduced our ability to do further in depth analysis given our limited time to work on this project. However, we strongly believe that our project leaves more to be desired as we envisioned other forms of analysis that could be done such as shortest path analysis to show the changes in distance between schools (before and after school mergers and closures) and MRT stations. From this form of analysis, we will be able to see if the accessibility to schools via public transport has been reduced due to mergers. We will also be able to evaluate which schools and subzones have the greatest accessibility to public transport.
+
+## Disconnected Roads around Central Water Catchment area
+
+During our data processing, we selected and extracted some roads while excluding others to factor in contextual logic in our analysis. For example, a primary student normally prefers to walk rather than travelling great distances to their school via bus or car. However, this method of extracting roads has caused some roads to be disconnected from the main road network. Consequently, this led to our various choropleth accessibility maps to shade certain hexagon areas that should have otherwise been white unshaded areas. For instance, the hexagons overlapping the Central Water Catchment area in the middle of Singapore are observed to have some shade of colour when, in actuality, should be white as the area is not considered a residential area. While our team was not able to rectify this issue of taking account of the Central Water Catchment area due to the interest of time, we do acknowledge it as a contradicting factor to the contextual knowledge we had understood.
+
+## Consideration our age range for youths studying in JCs
+
+Finally, the age range used to analyse the population, specifically to find a connection between the location of JCs and youths aged 17-20, is vastly overestimated as not all young
+
+adults in that age range pursue the JC education route. Some may pursue other education routes such as polytechnic, Institutes of Technical Education (ITE) or even not studying at all during this time of their life (e.g. working or taking a break). Hence, this is one of our assumptions that we had to consider in order to proceed with our analysis. We can improve on this analysis by finding other datasets that better represent the population who go to JCs in the subzones, such as the number of enrollments into primary schools, secondary schools and JCs in each subzone.

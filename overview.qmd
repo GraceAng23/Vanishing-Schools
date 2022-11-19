@@ -2,13 +2,17 @@
 editor: visual
 ---
 
-![](images/smt201%20project%20logo%20(1).png){fig-alt="Group Logo" fig-align="center" width="311"}
+![](images/smt201%20project%20logo%20(1).png){fig-alt="Group Logo" fig-align="center" width="349"}
 
 ## Motivation
 
-In the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the Ministry of Education (MOE) said in a press release on April 6 (cite).
+In the next three years, three pairs of primary schools and five pairs of secondary schools will be merging, the MOE said in a press release on April 6 (Abdullah, 2022).
 
-\"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places\", said Ms Liew Wei Li, Ministry of Education\'s director of schools and deputy-director general of education (Liew, 2021).
+The announcement of these mergers brought about mixed reactions amongst students and educators of the schools. For instance, amongst the mergers, one pair of schools that will be merging is Pioneer Primary and Juying Primary in 2022 (Ang, 2021). The principal of Pioneer Primary Lee Wai Ling once said she felt \"sad\" at first after receiving news that the school would be merged. Additionally, many parents as well as their children who were affected by the closure of their school were also concerned about the increased inconvenience as it would mean that their children would have to travel even further to access the merged school.
+
+On the other hand, others had positive reactions towards the mergers where principal of Stamford Primary Cassie Fan believed that the students will have greater access to a wider range of educational programmes and CCAs, thus enriching their experience in schools. 
+
+\"Declining birth rates and changing demographics in our housing estates have led to falling enrollment in several of our schools. At the same time, some areas are experiencing rising demand for school places\", said Ms Liew Wei Li, Ministry of Education\'s director of schools and deputy-director general of education (Liew, 2021). 
 
 With Ms Liew\'s statement in mind, we wanted to investigate how accessibility has changed after the past few mergers and closures. Through our project, we also wanted to take this opportunity to analyse the accessibility of schools from residential areas using QGIS software and Network Accessibility Analysis.
 
