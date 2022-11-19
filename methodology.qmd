@@ -7,8 +7,9 @@ editor: visual
 
 # Datasets
 
-| File Name | Description | Source |
-|-----------|-------------|--------|
-|           |             |        |
-|           |             |        |
-|           |             |        |
+| File Name                                                                                              | Description                                                                | Source      |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|
+| Master Plan 2014 Subzone Boundary (No Sea) \[Shapefile\]                                               | Master Plan of Singapore showing planning areas and subzones in 2014       | data.gov.sg |
+| School Directory and Information \[CSV\]                                                               | Information including address of schools in Singapore                      | data.gov.sg |
+| malaysia-singapore-brunei-latest-free \[Shapefile\]                                                    | OpenStreetMap data                                                         | Geofabrik   |
+| Singapore Residents by Planning Area / Subzone, Age Group, Sex and Type of Dwelling, June 2021 \[CSV\] | Demographic data about residents in each Planning Area and Subzone in 2021 | Singstat    |

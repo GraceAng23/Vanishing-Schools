@@ -2,3 +2,5 @@
 title: "Poster"
 editor: visual
 ---
+
+![](images/G2T8%20Poster_updated.jpg){fig-align="center"}
